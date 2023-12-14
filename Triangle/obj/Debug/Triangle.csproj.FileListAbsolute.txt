@@ -1,0 +1,10 @@
+E:\Dekstop\Tr1\Triangle\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+E:\Dekstop\Tr1\Triangle\Triangle\obj\Debug\Triangle.Form1.resources
+E:\Dekstop\Tr1\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+E:\Dekstop\Tr1\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+E:\Dekstop\Tr1\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+E:\Dekstop\Tr1\Triangle\Triangle\bin\Debug\Triangle.exe.config
+E:\Dekstop\Tr1\Triangle\Triangle\bin\Debug\Triangle.exe
+E:\Dekstop\Tr1\Triangle\Triangle\bin\Debug\Triangle.pdb
+E:\Dekstop\Tr1\Triangle\Triangle\obj\Debug\Triangle.exe
+E:\Dekstop\Tr1\Triangle\Triangle\obj\Debug\Triangle.pdb
